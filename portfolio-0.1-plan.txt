@@ -10,3 +10,6 @@ the portfolio would be containt :
 -Main
   -section 1-5
 -footer
+ -instagram
+ -twitter
+ -facebook
