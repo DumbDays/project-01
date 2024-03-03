@@ -14,3 +14,6 @@ the portfolio would be containt :
     -instagram
     -twitter
     -facebook
+  -my partner
+    -A
+    -B
