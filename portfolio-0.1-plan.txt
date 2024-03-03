@@ -1,5 +1,12 @@
 This is a plan of my first portfolio
 the portfolio would be containt :
 -Nav
+  -logo
+  -home
+  -about
+  -services
+  -portfolio
+  -contact
 -Main
+  -section 1-5
 -footer
